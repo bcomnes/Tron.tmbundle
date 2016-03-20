@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>opbzarf@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Bret Comnes</string>
+	<key>description</key>
+	<string>Tron and Tron Legacy themes bundled for TextMate 2.</string>
+	<key>name</key>
+	<string>Tron Legacy</string>
+	<key>uuid</key>
+	<string>8677224C-84AF-4927-9DBA-5847E0610E7A</string>
+</dict>
+</plist>
